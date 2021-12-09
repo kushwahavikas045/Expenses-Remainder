@@ -7,8 +7,7 @@ const Header = ({title, subtitle}) => {
         <PageHeader
             title={title}
             subTitle={subtitle}
-
-        />
+          />
     )
 }
 
